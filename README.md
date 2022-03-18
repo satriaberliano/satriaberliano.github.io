@@ -1,3 +1,3 @@
 # satriaberliano.github.io
 
-Pemrograman Web
+Pemrograman Web (Personal Site)
